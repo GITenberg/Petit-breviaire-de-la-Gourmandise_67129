@@ -1,0 +1,42 @@
+_repo: Petit-breviaire-de-la-Gourmandise_67129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tailhade, Laurent
+    aliases:
+    - Renzi
+    - Junipérien, Dom
+    - Juniperien, Dom
+    - Azède
+    - Patte-Pelue
+    - Lorenzaccio
+    - Cachetero, El
+    - Tybalt
+    - Azede
+    birthdate: 1854
+    deathdate: 1919
+    gutenberg_agent_id: '47304'
+    url: http://www.gutenberg.org/2009/agents/47304
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Laurent_Tailhade
+    - https://en.wikipedia.org/wiki/Laurent_Tailhade
+description: ''
+gutenberg_issued: '2022-01-08'
+identifiers:
+  gutenberg: '67129'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k83314v
+pgterms:marc905: 20200330002125tailhade
+pgterms:marc906: '1914'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: France :Albert Messein,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Petit bréviaire de la Gourmandise
+url: http://www.gutenberg.org/ebooks/67129
